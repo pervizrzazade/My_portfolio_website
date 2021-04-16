@@ -220,6 +220,8 @@ img{
   right: 0;
   bottom: 0;
   width: 295px;
+  clip-path: circle();
+
 }
 
 /*BUTTONS*/
