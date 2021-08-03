@@ -116,7 +116,7 @@ img{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: rgba(0, 186, 192);
+  background-color: rgb(0, 53, 46);
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
 
@@ -145,7 +145,7 @@ img{
 }
 .nav__link{
   position: relative;
-  color: #fff;
+  color: rgb(163, 112, 0) !important;
 }
 .nav__link:hover{
   position: relative;
@@ -162,7 +162,7 @@ img{
 .nav__logo{
   color: var(--second-color);
   font-weight: 800;
-  color: #000;
+  color: rgb(163, 112, 0);
   font-size: 25px;
 }
 .nav__toggle{
@@ -350,7 +350,7 @@ img{
 /* ===== FOOTER =====*/
 .footer{
   background-color: var(--second-color);
-  color: #fff;
+  color: rgb(163, 112, 0);
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
@@ -364,7 +364,7 @@ img{
 }
 .footer__icon{
   font-size: 1.5rem;
-  color: #fff;
+  color: rgb(163, 112, 0);
   margin: 0 var(--mb-2)
 }
 
