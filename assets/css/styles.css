@@ -145,7 +145,8 @@ img{
 }
 .nav__link{
   position: relative;
-  color: var(--second-color);
+  color:#fff !important;
+
   font-weight: 600;
 }
 .nav__link:hover{
